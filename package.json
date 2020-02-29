@@ -1,6 +1,6 @@
 {
   "name": "@oslokommune/vue",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "description": "A collection of Vue components",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
