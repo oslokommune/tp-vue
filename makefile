@@ -3,7 +3,7 @@ run:
 	@npm run storybook
 
 link-styling:
-	@npm link @tuuturu/styling || true
+	@npm link @oslokommune/styling || true
 dev:
 	@npm run watch
 
