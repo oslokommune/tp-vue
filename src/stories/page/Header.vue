@@ -53,7 +53,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import '~@tuuturu/styling/style';
+@import '~@oslokommune/styling/style';
 $topbarLinkFontSize: 14px;
 
 .nav-link {

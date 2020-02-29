@@ -22,7 +22,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import '~@tuuturu/styling/style';
+@import '~@oslokommune/styling/style';
 
 .Footer {
 	border-top: 1px solid $grey;

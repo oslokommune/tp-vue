@@ -22,7 +22,7 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
-@import '~@tuuturu/styling/style';
+@import '~@oslokommune/styling/style';
 
 .BaseButton {
   min-height: 2.6em;
